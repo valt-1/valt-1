@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+[Atlas API](https://github.com/ATLAS-ohtuprojekti/ATLAS) (Software Engineering Project Course, autumn 2021)
 
 <!--
 **valt-1/valt-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
