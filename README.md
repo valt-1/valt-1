@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-CS Master's student at the University of Helsinki. Interested in machine learning, backend development, DevOps, etc.
+CS student at the University of Helsinki. Interested in machine learning, backend development, DevOps, etc.
 
 [Atlas API](https://github.com/ATLAS-ohtuprojekti/ATLAS) (Software Engineering Project Course, autumn 2021)
 
