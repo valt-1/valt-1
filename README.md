@@ -1,9 +1,11 @@
 <!--### Hi there 👋-->
 CS student at the University of Helsinki. Interested in machine learning, backend development, DevOps, etc.
 
-[Pocket Sommelier Wine Recommender App](https://github.com/KalleHahl/data-science-group-project) 
+Some group projects I have participated in:
 
-[Atlas API](https://github.com/ATLAS-ohtuprojekti/ATLAS) 
+🍷[Pocket Sommelier - Wine Recommender App](https://github.com/KalleHahl/data-science-group-project) 
+
+🐦[Atlas API for publishing observation data from national bird surveys](https://github.com/ATLAS-ohtuprojekti/ATLAS) 
 
 <!--
 **valt-1/valt-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
