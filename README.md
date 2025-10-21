@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 CS student at the University of Helsinki. Interested in machine learning, backend development, DevOps, etc.
 
-Some group projects I have participated in:
+Some projects I have participated in:
 
 🍷[Pocket Sommelier - Wine Recommender App](https://github.com/KalleHahl/data-science-group-project) 
 
