@@ -1,7 +1,9 @@
 <!--### Hi there 👋-->
 CS student at the University of Helsinki. Interested in machine learning, backend development, DevOps, etc.
 
-[Atlas API](https://github.com/ATLAS-ohtuprojekti/ATLAS) (Software Engineering Project Course, autumn 2021)
+[Pocket Sommelier Wine Recommender App](https://github.com/KalleHahl/data-science-group-project) 
+
+[Atlas API](https://github.com/ATLAS-ohtuprojekti/ATLAS) 
 
 <!--
 **valt-1/valt-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
